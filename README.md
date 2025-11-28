@@ -1,16 +1,19 @@
 # image_steganography
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Project-Steganography-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+</p>
+
+<h1 align="center">🖼️ Image Steganography – LSB Encoding & Decoding Tool</h1>
+
+<p align="center">
+  A simple and offline Python-based application to hide and extract secret messages inside images.<br>
+  Built using <b>Python, PIL, NumPy, Matplotlib, and IpyWidgets</b>.
+</p
 🔐 IMAGE STEGANOGRAPHY TOOL – PYTHON | LSB ENCODING & DECODING
 
-
-
-██╗███╗   ███╗ █████╗  ██████╗ ███████╗    ███████╗████████╗███████╗ ██████╗ 
-██║████╗ ████║██╔══██╗██╔════╝ ██╔════╝    ██╔════╝╚══██╔══╝██╔════╝██╔════╝ 
-██║██╔████╔██║███████║██║  ███╗█████╗      ███████╗   ██║   █████╗  ██║  ███╗
-██║██║╚██╔╝██║██╔══██║██║   ██║██╔══╝      ╚════██║   ██║   ██╔══╝  ██║   ██║
-██║██║ ╚═╝ ██║██║  ██║╚██████╔╝███████╗    ███████║   ██║   ███████╗╚██████╔╝
-╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝     ╚══════╝   ╚═╝   ╚══════╝ ╚═════╝ 
-
-
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/23d22e80-8122-4c60-a627-b2204e01ec7c" />
 
 ✨ Features
 
@@ -52,3 +55,6 @@ Image processing
 Data encoding/decoding
 UI building in Jupyter
 Python automation and debugging
+
+
+
